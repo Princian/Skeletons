@@ -1,0 +1,13 @@
+# Steps taken to setup node server
+
+1) Initiate an npm project
+`npm init`
+
+2) Install dependencies
+`npm install express`
+`npm install nodemon`
+    - To run: nodemon ./server.js
+    - can optionally update package.json to include script: `"dev": "nodemon ./server.js"`
+
+3) 
+
